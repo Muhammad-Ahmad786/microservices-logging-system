@@ -18,8 +18,5 @@ Microservices → Kafka → Log Service → PostgreSQL
 - Asynchronous communication
 - Microservices architecture
 
-##  Screenshots
-(Add later)
-
 ##  Author
 Muhammad Ahmad
